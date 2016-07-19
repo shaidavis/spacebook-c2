@@ -1,0 +1,17 @@
+.remove-post {
+  color: red;
+  /*font-style: italic;*/
+  border: 2px solid red;
+  padding: 2px 4px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.remove-post:hover {
+  color: purple;
+  border: 3px solid purple;
+  text-decoration: none;
+  text-transform: uppercase;
+
+
+}
